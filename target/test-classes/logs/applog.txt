@@ -1,0 +1,24 @@
+INFO    2023-02-02 18:50:27,705 [main] base.BaseTest  - Test Suite Started !!!
+INFO    2023-02-02 18:50:27,709 [main] base.BaseTest  - OR Property File Loaded
+INFO    2023-02-02 18:50:27,718 [main] base.BaseTest  - Config Property File Loaded
+INFO    2023-02-02 18:50:31,801 [main] base.BaseTest  - Launching Chrome Browser !!!
+INFO    2023-02-02 18:50:32,377 [main] base.BaseTest  - Navigating to URL : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2023-02-02 18:50:33,268 [main] base.BaseTest  - DB Connection established
+INFO    2023-02-02 18:50:33,393 [main] base.BaseTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2023-02-02 18:50:33,477 [main] base.BaseTest  - Clicking on an Element : addCust_CSS
+INFO    2023-02-02 18:50:34,576 [main] base.BaseTest  - Clicking on an Element : addCust_CSS
+INFO    2023-02-02 18:50:34,858 [main] base.BaseTest  - Entered element : firstName_CSS and value entered is : smita
+INFO    2023-02-02 18:50:35,061 [main] base.BaseTest  - Entered element : lastName_CSS and value entered is : patil
+INFO    2023-02-02 18:50:35,271 [main] base.BaseTest  - Entered element : postcode_CSS and value entered is : 23fe43
+INFO    2023-02-02 18:50:37,411 [main] base.BaseTest  - Clicking on an Element : addCustBtn_CSS
+INFO    2023-02-02 18:50:42,002 [main] base.BaseTest  - Clicking on an Element : openAccBtn_CSS
+INFO    2023-02-02 18:50:42,267 [main] base.BaseTest  - Entered element : customer_CSS and value entered is : smita patil
+INFO    2023-02-02 18:50:42,404 [main] base.BaseTest  - Entered element : currenct_CSS and value entered is : Rupee
+INFO    2023-02-02 18:50:42,491 [main] base.BaseTest  - Clicking on an Element : processBtn_CSS
+INFO    2023-02-02 18:50:46,623 [main] base.BaseTest  - Clicking on an Element : openAccBtn_CSS
+INFO    2023-02-02 18:50:57,093 [main] base.BaseTest  - Error while entreing the value : anil patil  Error message : Cannot locate option with text: anil patil 
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-K4PK96U', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: unknown
+INFO    2023-02-02 18:50:58,370 [main] base.BaseTest  - Test Suite Ended !!!
